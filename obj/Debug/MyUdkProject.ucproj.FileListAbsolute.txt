@@ -1,0 +1,14 @@
+D:\Programs\UDK\Development\Src\obj\Debug\MyUdkProject.ucproj.UnrealScriptGeneratedFileListAbsolute.txt
+D:\Programs\UDK\UDKGame\Script\Core.u
+D:\Programs\UDK\UDKGame\Script\Engine.u
+D:\Programs\UDK\UDKGame\Script\GFxUI.u
+D:\Programs\UDK\UDKGame\Script\GameFramework.u
+D:\Programs\UDK\UDKGame\Script\UnrealEd.u
+D:\Programs\UDK\UDKGame\Script\GFxUIEditor.u
+D:\Programs\UDK\UDKGame\Script\IpDrv.u
+D:\Programs\UDK\UDKGame\Script\OnlineSubsystemPC.u
+D:\Programs\UDK\UDKGame\Script\OnlineSubsystemSteamworks.u
+D:\Programs\UDK\UDKGame\Script\UDKBase.u
+D:\Programs\UDK\UDKGame\Script\UTEditor.u
+D:\Programs\UDK\UDKGame\Script\UTGame.u
+D:\Programs\UDK\UDKGame\Script\UTGameContent.u
