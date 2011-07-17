@@ -52,7 +52,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="*\Classes\**\*.uc" />
-    <Compile Include="gittest\MyScriptClass1.uc" />
     <Content Include="**\*.uci" />
   </ItemGroup>
   <ItemGroup>
@@ -76,7 +75,6 @@
     <Folder Include="IpDrv\Classes\" />
     <Folder Include="MyMod2\" />
     <Folder Include="MyMod2\Classes\" />
-    <Folder Include="gittest" />
     <Folder Include="OnlineSubsystemGameCenter\" />
     <Folder Include="OnlineSubsystemGameCenter\Classes\" />
     <Folder Include="OnlineSubsystemPC\" />
